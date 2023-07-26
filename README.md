@@ -5,7 +5,7 @@
 <body>
   <h1>Hello, I'm Clever Coding Coder!</h1>
   <p>
-    Welcome to my GitHub profile! I'm a passionate developer with expertise in JavaScript and Python.
+    Welcome to my GitHub profile! I'm a passionate developer with expertise in JavaScript, Python and HTML/CSS.
   </p>
   <h2>Languages and Technologies</h2>
   <ul>
