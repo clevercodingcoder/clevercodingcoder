@@ -19,7 +19,7 @@
     Here are some of the projects I've worked on:
     <ul>
       <li><a href="https://github.com/clevercodingcoder/clevercodingcoder/blob/main/UltimateCalculator.java">Advanced Calculator</a></li>
-      <li><a href="(https://github.com/clevercodingcoder/clevercodingcoder/blob/main/ChatbotMixie.py)">Advanced Chatbot</a></li>
+      <li><a href="https://github.com/clevercodingcoder/clevercodingcoder/blob/main/ChatbotMixie.py">Advanced Chatbot</a></li>
       <!-- Add more projects as needed -->
     </ul>
   </p>
