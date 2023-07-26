@@ -199,9 +199,6 @@ def open_website(query):
     elif "amazon prime video" in query:
         webbrowser.open("https://www.primevideo.com/")
         speak("Opening Amazon Prime Video.")
-    elif "viggo" in query:
-        webbrowser.open("link til vigo skole app")
-        speak("Opening Viggo.")
     else:
         speak("Sorry, I don't know how to open that website.")
 
